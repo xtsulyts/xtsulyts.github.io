@@ -144,16 +144,16 @@ body {
     padding-top: 30px;
     background-color: rgb(53, 55, 54);
 }
-/*.contenedor_2 div {
+.contenedor_2 div {
     background-color: rgb(106, 99, 86);
     opacity: 0.3;
 }
 
-/*.contenedor_2 div:hover {
+.contenedor_2 div:hover {
     background-color: rgb(53, 55, 54);
     transition: all 2s linear;
 
-}*/
+}
 .contenedor_2 :hover {
   
     background-color: rgb darkkhaki;
